@@ -12,7 +12,7 @@
 
 
 - Last year Bsc. Computer Science at IU Internationale Hochschule
-- Hobbies: Crotcheing, Reading, Photography
+- Hobbies: Crocheting, Reading, Photography
 - Spoken Languages: Urdu, English, German 
 
 <h2>Reach out to me</h2>
