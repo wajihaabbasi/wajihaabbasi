@@ -62,7 +62,8 @@
 
 <hr>
 <!-- Profile Views -->
-<p>
+
+<!--<p>
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=wajihaabbasi&icon=0&color=blue" alt="Profile Views">
   </a>
