@@ -12,8 +12,8 @@
 
 
 - Last year Bsc. Computer Science at IU Internationale Hochschule
-- Hobbies: Crocheting, Reading, Photography
 - Spoken Languages: Urdu, English, German
+- Currently Writing my Thesis and Looking for Work ;p
   
 
 <!-- Tech Stack -->
@@ -62,7 +62,7 @@
 
 <hr>
 <!-- Profile Views -->
-<!--<p>
+<p>
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=wajihaabbasi&icon=0&color=blue" alt="Profile Views">
   </a>
